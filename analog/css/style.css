@@ -1,0 +1,40 @@
+#main{
+    width:600px;
+    height: 600px;
+    margin: 0 auto;
+    background-color: aqua;
+    overflow: hidden;
+    background-image: url(../img/clock.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+}
+#main div{
+    position: absolute;
+}
+#saat{
+    width:6px;
+    height: 140px;
+    background-color:#FBFBFB;
+    top:156px;
+    left:300px;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+}
+#deqiqe{
+    width:5px;
+    height: 170px;
+    background-color:#FBFBFB;
+    top:128px;
+    left:300px;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+}
+#saniye{
+    width:4px;
+    height: 190px;
+    background-color:#FBFBFB;
+    top:108px;
+    left:300px;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+}
